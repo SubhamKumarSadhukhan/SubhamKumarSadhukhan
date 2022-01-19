@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2%20%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-8-blue)
 
@@ -44,11 +44,11 @@ You can click the Preview link to take a look at your changes.
 ```text
 সোমবার       168 commits    ██████████░░░░░░░░░░░░░░░   41.08% 
 মঙ্গলবার     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
-বুধবার       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+বুধবার       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
 বৃহস্পতিবার  15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
 শুক্রবার     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
 শনিবার       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-রবিবার       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
+রবিবার       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82%
 
 ```
 
