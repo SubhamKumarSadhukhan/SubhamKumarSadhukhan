@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2%20%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-1-blue)
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 **🐱 আমার Github তথ্য** 
 
-> 🏆 3,089 টি অবদান সাল 2022 এ
+> 🏆 3,090 টি অবদান সাল 2022 এ
  > 
 > 📦 136.6 kB ব্যবহৃত হয়েছে GitHub এর স্টরেজের 
  > 
@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 **আমি হলাম রাতের 🦉** 
 
 ```text
-🌞 সকাল       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
+🌞 সকাল       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
 🌆 দিনেরবেলা  148 commits    ███████░░░░░░░░░░░░░░░░░░   30.27% 
-🌃 সন্ধা      200 commits    ██████████░░░░░░░░░░░░░░░   40.9% 
+🌃 সন্ধা      201 commits    ██████████░░░░░░░░░░░░░░░   41.1% 
 🌙 রাত্রি     76 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54%
 
 ```
@@ -97,5 +97,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 17:20:16 UTC
+ Last Updated on 01/05/2022 21:16:07 UTC
 <!--END_SECTION:waka-->
