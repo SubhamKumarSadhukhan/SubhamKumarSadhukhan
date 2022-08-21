@@ -17,4 +17,3 @@ jobs:
           COMMIT_BY_ME: True
           SHOW_LINES_OF_CODE: True
           SHOW_EDITORS: True
-          LOCALE: "en"
