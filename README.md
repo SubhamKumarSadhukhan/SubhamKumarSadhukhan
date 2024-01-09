@@ -12,17 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 347.7 kB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2024
+> 🏆 401 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,21 +33,21 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3602 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-🌆 Daytime                4510 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-🌃 Evening                4807 commits        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-🌙 Night                  3963 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                424 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                593 commits         ██████████░░░░░░░░░░░░░░░   41.12 % 
+🌙 Night                  223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2558 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  2381 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                2417 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 2395 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   2378 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 2380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Sunday                   2373 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   393 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Tuesday                  231 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Wednesday                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 ```
 
 
@@ -94,5 +94,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 12:20:14 UTC
+ Last Updated on 09/01/2024 12:52:58 UTC
 <!--END_SECTION:waka-->
