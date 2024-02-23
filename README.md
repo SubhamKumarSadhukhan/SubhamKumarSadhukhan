@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C957%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C956%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 348.7 kB Used in GitHub's Storage 
- > 
-> 🏆 2,628 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,18 +32,18 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 🌞 Morning                4097 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-🌆 Daytime                5066 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌃 Evening                5415 commits        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌙 Night                  4477 commits        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+🌆 Daytime                5066 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌃 Evening                5416 commits        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌙 Night                  4477 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2860 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 Tuesday                  2672 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Wednesday                2743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                2743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Thursday                 2727 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   2709 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Friday                   2710 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Saturday                 2676 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 Sunday                   2668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 ```
@@ -94,5 +92,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2024 18:14:38 UTC
+ Last Updated on 23/02/2024 18:36:41 UTC
 <!--END_SECTION:waka-->
