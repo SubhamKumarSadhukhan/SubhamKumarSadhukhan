@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,13 +33,13 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                4610 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
 🌆 Daytime                5648 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-🌃 Evening                6006 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+🌃 Evening                6007 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
 🌙 Night                  4982 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Monday                   3188 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Tuesday                  2983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 Wednesday                3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Thursday                 3024 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
@@ -79,11 +79,11 @@ Windows                  34 mins             █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            █████████████░░░░░░░░░░░░   52.63 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JavaScript               40 repos            █████████████░░░░░░░░░░░░   51.95 % 
+TypeScript               18 repos            ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
@@ -93,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2024 14:14:25 UTC
+ Last Updated on 08/04/2024 14:36:39 UTC
 <!--END_SECTION:waka-->
