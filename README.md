@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C207%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 351.7 kB Used in GitHub's Storage 
- > 
-> 🏆 6,868 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                5139 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 🌆 Daytime                6318 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌃 Evening                6702 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+🌃 Evening                6703 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
 🌙 Night                  5509 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -44,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 Monday                   3507 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
 Tuesday                  3375 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 Wednesday                3431 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 3414 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Thursday                 3415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Friday                   3326 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Saturday                 3333 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Sunday                   3282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
@@ -94,5 +92,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 18:16:05 UTC
+ Last Updated on 23/05/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
