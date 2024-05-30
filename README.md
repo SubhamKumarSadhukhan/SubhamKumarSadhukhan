@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C210%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C210%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 351.9 kB Used in GitHub's Storage 
- > 
-> 🏆 7,186 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                5216 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 🌆 Daytime                6401 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-🌃 Evening                6786 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-🌙 Night                  5586 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌃 Evening                6787 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌙 Night                  5586 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -44,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 Monday                   3553 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Tuesday                  3421 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 Wednesday                3477 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Thursday                 3460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Thursday                 3461 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Friday                   3371 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Saturday                 3379 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 Sunday                   3328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
@@ -94,5 +92,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 18:17:33 UTC
+ Last Updated on 30/05/2024 18:40:57 UTC
 <!--END_SECTION:waka-->
