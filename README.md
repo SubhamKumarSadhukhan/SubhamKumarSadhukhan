@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C233%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 352.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 7,796 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5361 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+🌞 Morning                5362 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
 🌆 Daytime                6558 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
 🌃 Evening                6946 commits        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
 🌙 Night                  5743 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
@@ -42,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 Monday                   3644 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Tuesday                  3511 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Wednesday                3570 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 3526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 3527 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Friday                   3466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Saturday                 3473 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Sunday                   3418 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
@@ -93,5 +95,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 03:38:35 UTC
+ Last Updated on 13/06/2024 04:15:49 UTC
 <!--END_SECTION:waka-->
