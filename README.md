@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C357%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C357%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 353.2 kB Used in GitHub's Storage 
- > 
-> 🏆 9,960 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                5858 commits        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
 🌆 Daytime                7147 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌃 Evening                7525 commits        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌃 Evening                7526 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
 🌙 Night                  6264 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -43,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 Monday                   3950 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 Tuesday                  3818 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Wednesday                3883 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Wednesday                3884 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 Thursday                 3832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Friday                   3788 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Saturday                 3795 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
@@ -93,5 +91,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:20:05 UTC
+ Last Updated on 31/07/2024 18:45:29 UTC
 <!--END_SECTION:waka-->
