@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C419%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 353.9 kB Used in GitHub's Storage 
- > 
-> 🏆 10,983 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                6084 commits        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 🌆 Daytime                7420 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌃 Evening                7800 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌃 Evening                7801 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
 🌙 Night                  6514 commits        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -45,7 +43,7 @@ Monday                   4084 commits        ████░░░░░░░�
 Tuesday                  3951 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 Wednesday                4018 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 Thursday                 4008 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   3965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Friday                   3966 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 Saturday                 3929 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Sunday                   3863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 ```
@@ -95,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:17:31 UTC
+ Last Updated on 23/08/2024 18:43:54 UTC
 <!--END_SECTION:waka-->
