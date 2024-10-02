@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 384.3 kB Used in GitHub's Storage 
  > 
-> 🏆 12,731 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -33,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌞 Morning                6499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
 🌆 Daytime                8020 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-🌃 Evening                8427 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌃 Evening                8428 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 🌙 Night                  6955 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -43,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 Monday                   4390 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
 Tuesday                  4274 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                4335 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                4336 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 Thursday                 4292 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Friday                   4239 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Saturday                 4225 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
@@ -95,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 16:47:08 UTC
+ Last Updated on 02/10/2024 17:16:13 UTC
 <!--END_SECTION:waka-->
