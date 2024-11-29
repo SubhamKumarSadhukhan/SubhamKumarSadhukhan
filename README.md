@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C651%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 385.3 kB Used in GitHub's Storage 
- > 
-> 🏆 15,072 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                7000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 🌆 Daytime                8661 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌃 Evening                9077 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌃 Evening                9078 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
 🌙 Night                  7541 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -45,7 +43,7 @@ Monday                   4720 commits        ████░░░░░░░�
 Tuesday                  4581 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 Wednesday                4641 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Thursday                 4650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   4615 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   4616 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Saturday                 4579 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 Sunday                   4493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 ```
@@ -90,5 +88,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:24:54 UTC
+ Last Updated on 29/11/2024 18:49:20 UTC
 <!--END_SECTION:waka-->
