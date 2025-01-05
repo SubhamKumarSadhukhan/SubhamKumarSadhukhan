@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 386.0 kB Used in GitHub's Storage 
  > 
-> 🏆 212 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -33,15 +31,15 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7337 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌞 Morning                7337 commits        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 🌆 Daytime                9119 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
 🌃 Evening                9545 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  7958 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌙 Night                  7959 commits        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4945 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Monday                   4946 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 Tuesday                  4814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Wednesday                4875 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Thursday                 4881 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
@@ -87,5 +85,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 19:40:03 UTC
+ Last Updated on 05/01/2025 20:17:57 UTC
 <!--END_SECTION:waka-->
