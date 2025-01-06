@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 386.1 kB Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2025
+> 🏆 252 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,13 +36,13 @@ You can click the Preview link to take a look at your changes.
 🌞 Morning                7342 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 🌆 Daytime                9118 commits        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 🌃 Evening                9543 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌙 Night                  7965 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+🌙 Night                  7966 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   4982 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  4803 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  4804 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Wednesday                4864 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Thursday                 4879 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Friday                   4839 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
@@ -57,17 +57,17 @@ Sunday                   4754 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ████████████████████████░   97.23 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+TypeScript               1 hr 15 mins        ████████████████████████░   97.59 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bionic-backend           1 hr 6 mins         █████████████████████████   100.00 % 
+bionic-backend           1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +87,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 18:55:33 UTC
+ Last Updated on 06/01/2025 19:19:11 UTC
 <!--END_SECTION:waka-->
