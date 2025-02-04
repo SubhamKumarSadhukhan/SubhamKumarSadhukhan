@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C736%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C737%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 386.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,539 Contributions in the Year 2025
+> 🏆 1,537 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,52 +30,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7624 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌆 Daytime                9453 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌃 Evening                9902 commits        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-🌙 Night                  8290 commits        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   5165 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  5021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Wednesday                5045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 5059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Friday                   5021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Saturday                 5027 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Sunday                   4931 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               1 hr 41 mins        ████████████████████░░░░░   79.01 % 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-plane-webhook            1 hr 10 mins        ██████████████░░░░░░░░░░░   54.58 % 
-ludo-nodejs              49 mins             ██████████░░░░░░░░░░░░░░░   38.41 % 
-bionic-backend           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-
-💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████░░░░░░░░░░░░   50.70 % 
-Mac                      1 hr 3 mins         ████████████░░░░░░░░░░░░░   49.30 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,5 +47,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:30:57 UTC
+ Last Updated on 04/02/2025 18:51:35 UTC
 <!--END_SECTION:waka-->
