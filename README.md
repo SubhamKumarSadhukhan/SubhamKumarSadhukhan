@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C752%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
@@ -22,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 386.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,030 Contributions in the Year 2025
+> 🏆 2,029 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,18 +33,18 @@ You can click the Preview link to take a look at your changes.
 ```text
 🌞 Morning                7733 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
 🌆 Daytime                9576 commits        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌃 Evening                10036 commits       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-🌙 Night                  8412 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌃 Evening                10037 commits       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+🌙 Night                  8412 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   5210 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  5065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                5133 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  5065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                5133 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Thursday                 5148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Friday                   5110 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 5116 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 5117 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Sunday                   4975 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 ```
 
@@ -95,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 18:22:21 UTC
+ Last Updated on 15/02/2025 18:44:45 UTC
 <!--END_SECTION:waka-->
