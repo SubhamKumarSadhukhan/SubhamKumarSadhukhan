@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 387.2 kB Used in GitHub's Storage 
- > 
-> 🏆 2,772 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,16 +31,16 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7890 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌞 Morning                7890 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 🌆 Daytime                9769 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-🌃 Evening                10242 commits       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌃 Evening                10243 commits       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
 🌙 Night                  8601 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   5340 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  5191 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  5192 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Wednesday                5223 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Thursday                 5237 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Friday                   5198 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
@@ -95,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 15:50:12 UTC
+ Last Updated on 04/03/2025 16:24:54 UTC
 <!--END_SECTION:waka-->
