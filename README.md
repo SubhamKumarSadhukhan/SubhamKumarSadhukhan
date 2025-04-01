@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C815%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C815%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 388.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,973 Contributions in the Year 2025
+> 🏆 3,969 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,16 +33,16 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8137 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+🌞 Morning                8140 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
 🌆 Daytime                10072 commits       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 🌃 Evening                10566 commits       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌙 Night                  8921 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+🌙 Night                  8921 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5517 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  5339 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Monday                   5517 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  5342 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Wednesday                5394 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Thursday                 5406 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 Friday                   5373 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
@@ -95,5 +95,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 04:26:53 UTC
+ Last Updated on 01/04/2025 04:51:06 UTC
 <!--END_SECTION:waka-->
