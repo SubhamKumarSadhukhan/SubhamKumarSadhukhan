@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 388.8 kB Used in GitHub's Storage 
  > 
+> 🏆 5,823 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -34,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 🌞 Morning                8499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
 🌆 Daytime                10576 commits       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 🌃 Evening                11088 commits       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-🌙 Night                  9403 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+🌙 Night                  9404 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -42,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 Monday                   5766 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Tuesday                  5629 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Wednesday                5690 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 5666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 5667 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Friday                   5630 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Saturday                 5647 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Sunday                   5538 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
@@ -93,5 +95,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 20:47:49 UTC
+ Last Updated on 14/05/2025 21:18:46 UTC
 <!--END_SECTION:waka-->
