@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C906%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C907%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 388.9 kB Used in GitHub's Storage 
  > 
-> 🏆 6,068 Contributions in the Year 2025
+> 🏆 6,070 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,53 +30,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 45 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8543 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-🌆 Daytime                10649 commits       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌃 Evening                11159 commits       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌙 Night                  9465 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   5809 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Tuesday                  5671 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Wednesday                5690 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 5703 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Friday                   5673 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 5690 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   5580 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Go                       2 hrs 14 mins       ██████████████░░░░░░░░░░░   57.65 % 
-TypeScript               1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.74 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-wallets                  1 hr 42 mins        ███████████░░░░░░░░░░░░░░   43.99 % 
-bionic-lottery-finalizer 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-identities               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-bionic-backend           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-common-sdk               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-💻 Operating System: 
-Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -94,5 +47,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 19:01:01 UTC
+ Last Updated on 20/05/2025 19:21:16 UTC
 <!--END_SECTION:waka-->
