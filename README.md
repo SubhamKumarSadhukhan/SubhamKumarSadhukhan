@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 389.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 6,697 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8735 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+🌞 Morning                8736 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 🌆 Daytime                10816 commits       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 🌃 Evening                11317 commits       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 🌙 Night                  9617 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
@@ -41,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ```text
 Monday                   5901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Tuesday                  5740 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                5797 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Wednesday                5798 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Thursday                 5800 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Friday                   5777 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Saturday                 5790 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
@@ -93,5 +95,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 01:09:49 UTC
+ Last Updated on 23/07/2025 03:04:41 UTC
 <!--END_SECTION:waka-->
