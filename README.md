@@ -20,7 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 **🐱 My GitHub Data** 
 
-> 📦 389.3 kB Used in GitHub's Storage 
+> 📦 389.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 6,747 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8785 commits        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+🌞 Morning                8786 commits        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 🌆 Daytime                10817 commits       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
 🌃 Evening                11317 commits       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 🌙 Night                  9617 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
@@ -40,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 Monday                   5908 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  5745 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  5746 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Wednesday                5805 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Thursday                 5808 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Friday                   5785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
@@ -92,5 +94,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 01:04:30 UTC
+ Last Updated on 19/08/2025 02:30:42 UTC
 <!--END_SECTION:waka-->
