@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C075%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C075%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 **🐱 My GitHub Data** 
 
 > 📦 392.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 6,792 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8820 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+🌞 Morning                8821 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 🌆 Daytime                10782 commits       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
 🌃 Evening                11279 commits       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
 🌙 Night                  9615 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
@@ -39,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Monday                   5902 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Tuesday                  5728 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Wednesday                5785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Thursday                 5804 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
@@ -93,5 +95,5 @@ Smarty                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 01:01:58 UTC
+ Last Updated on 08/09/2025 02:32:38 UTC
 <!--END_SECTION:waka-->
