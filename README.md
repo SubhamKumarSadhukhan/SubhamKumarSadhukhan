@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🏆 6,867 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+>  Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
