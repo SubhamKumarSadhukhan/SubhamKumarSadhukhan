@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C468%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.60%20million%20lines%20of%20code-blue?style=flat)
@@ -19,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 393.6 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2026
+> 🏆 59 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,15 +32,15 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9073 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌆 Daytime                10725 commits       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌞 Morning                9074 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+🌆 Daytime                10725 commits       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
 🌃 Evening                11235 commits       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 🌙 Night                  9584 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5919 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Monday                   5920 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Tuesday                  5743 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Wednesday                5815 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Thursday                 5809 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
@@ -83,5 +85,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 01:20:47 UTC
+ Last Updated on 03/02/2026 01:23:40 UTC
 <!--END_SECTION:waka-->
