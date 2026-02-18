@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 402.9 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2026
+> 🏆 79 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9088 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌞 Morning                9089 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
 🌆 Daytime                10725 commits       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 🌃 Evening                11237 commits       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 🌙 Night                  9585 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 Monday                   5922 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  5745 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  5746 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Wednesday                5818 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Thursday                 5811 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Friday                   5795 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
@@ -56,16 +56,16 @@ Sunday                   5720 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backend                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +85,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SubhamKumarSadhukhan/SubhamKumarSadhukhan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 01:20:47 UTC
+ Last Updated on 18/02/2026 01:24:03 UTC
 <!--END_SECTION:waka-->
